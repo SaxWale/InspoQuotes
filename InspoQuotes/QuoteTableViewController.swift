@@ -2,8 +2,8 @@
 //  QuoteTableViewController.swift
 //  InspoQuotes
 //
-//  Created by Angela Yu on 15/08/2018.
-//  Copyright © 2018 London App Brewery. All rights reserved.
+//  Created by SaxWale on 15/08/2020.
+//  Copyright © 2020 SaxWale Productions. All rights reserved.
 //
 
 import UIKit
@@ -11,7 +11,7 @@ import StoreKit
 
 class QuoteTableViewController: UITableViewController, SKPaymentTransactionObserver {
 
-    let productID = "com.londonappbrewery.InspoQuotes.PremiumQuotes"
+    let productID = "com.saxwaleproductions.InspoQuotes.PremiumQuotes"
     
     var quotesToShow = [
         "Our greatest glory is not in never falling, but in rising every time we fall. — Confucius",
