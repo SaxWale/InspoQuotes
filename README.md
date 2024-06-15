@@ -9,3 +9,5 @@ InspoQuotes is a freemium app that gives some free inspiration and a lot of paid
 * How to use the StoreKit API to detect failure cases
 * How to use the StoreKit API to restore in-app purchases
 * How to persist the state of users' purchases
+
+
